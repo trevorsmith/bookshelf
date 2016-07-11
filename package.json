@@ -19,7 +19,7 @@
   "homepage": "http://bookshelfjs.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tgriesser/bookshelf.git"
+    "url": "git://github.com/trevorsmith/bookshelf.git"
   },
   "keywords": [
     "orm",
@@ -73,8 +73,8 @@
     "babel-preset-es2015"
   ],
   "author": {
-    "name": "Tim Griesser",
-    "web": "https://github.com/tgriesser"
+    "name": "Trevor Smith",
+    "web": "https://github.com/trevorsmith"
   },
   "license": "MIT",
   "readmeFilename": "README.md"
